@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px 5vw;
+  padding: 24px 0px;
+}
+
+.navbar__label {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: rgba(46, 46, 45, 0.96);
+  padding: 0px 4px;
+  margin: 0px 2px;
+  cursor: pointer;
+  text-decoration: none;
+}

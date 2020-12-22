@@ -1,0 +1,22 @@
+.sectionHeader {
+  max-width: 1020px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: 0px 5vw;
+  padding-top: 50px;
+  margin-top: 50px;
+  border-top: 1px solid lightgrey;
+}
+
+.sectionHeader__title {
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.sectionHeader__desc {
+  font-size: 17px;
+  margin-top: 16px;
+  max-width: 500px;
+  color: #3d3b3b;
+}

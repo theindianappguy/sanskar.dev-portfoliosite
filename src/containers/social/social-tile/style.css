@@ -1,0 +1,16 @@
+.socialTile {
+  display: flex;
+  align-items: center;
+  margin-right: 8px;
+}
+
+.social__label {
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #141414;
+}
+
+.social__label:hover {
+  text-decoration: underline;
+}

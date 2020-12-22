@@ -1,0 +1,12 @@
+.social {
+  display: block;
+  margin-top: 24px;
+}
+
+.social__labelMain {
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #141414;
+  margin-right: 8px;
+}
